@@ -1,12 +1,12 @@
-Hi, I'm @Defanboi (Fedor) 👋.
-I'm an aspiring DevOps engineer. I am engaged in DevOps, process automation and scripting
+# Hi, I'm @Defanboi (Fedor) 👋
+
+I'm an aspiring DevOps engineer and my passion is process automation and scripting.
 
 Now I live in Moscow.
 
- My DevOps journey started with Linux when I downloaded Ubuntu. I have basic knowledge of Python. Excellent knowledge of Bash, Docker, Nginx. Currently learning PostgreSQL.
+My path in DevOps started with Linux when I installed Ubuntu. I have a basic knowledge of Python, and I have excellent knowledge of Bash, Docker and Nginx. I'm currently studying PostgreSQL in depth.
 
 You can find me on:
 
- 
-    Github as @fedordevops (you're here).
-   Telegram: @ANboi46.
+    Github: @fedordevops (you're here now).
+    Telegram: @ANboi46.
