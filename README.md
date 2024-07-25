@@ -4,8 +4,16 @@ I'm an aspiring DevOps engineer and my passion is process automation and scripti
 
 Now I live in Moscow.
 
-My path in DevOps started with Linux when I installed Ubuntu. I have a basic knowledge of Python, and I have excellent knowledge of Bash, Docker and Nginx. I'm currently studying PostgreSQL in depth.
+## 👩‍💻 About me
+My journey into DevOps started with Linux when I installed Ubuntu. Here's what I know and am learning:
 
+    Basic knowledge of Python
+    Excellent knowledge of:
+        Bash
+        Docker
+        Nginx
+    Currently studying PostgreSQL in depth
+    
 You can find me on:
 
     Github: @fedordevops (you're here now).
