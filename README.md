@@ -14,13 +14,8 @@ My journey into DevOps started with Linux when I installed Ubuntu. Here's what I
         Bash
         Docker
         Nginx
+        
     Currently studying PostgreSQL in depth
-
-
-🛠 Технологии:
-
-
-
 
 
 
