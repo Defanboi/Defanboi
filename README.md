@@ -19,7 +19,6 @@ My journey into DevOps started with Linux when I installed Ubuntu. Here's what I
 
 🛠 Технологии:
 
-![изображение](https://github.com/user-attachments/assets/db116116-a2f9-4a7f-b942-8f5cdd9356d8) ![изображение](https://github.com/user-attachments/assets/d1bcc9f6-29de-4477-b394-882a6f74c3f6) ![изображение](https://github.com/user-attachments/assets/796dfbb4-2710-4818-ae96-345caf7c106f) 
 
 
 
